@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2021-04-18T12:46:11 ICT" name="Default suite" finished-at="2021-04-18T12:46:20 ICT" duration-ms="9001">
+    <groups>
+    </groups>
+    <test started-at="2021-04-18T12:46:11 ICT" name="Default test" finished-at="2021-04-18T12:46:20 ICT" duration-ms="9001">
+      <class name="loginTest.LoginTest">
+        <test-method is-config="true" signature="beforeClass()[pri:0, instance:loginTest.LoginTest@609db43b]" started-at="2021-04-18T12:46:11 ICT" name="beforeClass" finished-at="2021-04-18T12:46:16 ICT" duration-ms="4709" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeClass -->
+        <test-method signature="loginBlankField()[pri:0, instance:loginTest.LoginTest@609db43b]" started-at="2021-04-18T12:46:16 ICT" name="loginBlankField" finished-at="2021-04-18T12:46:16 ICT" duration-ms="578" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginBlankField -->
+        <test-method signature="loginSuccess()[pri:0, instance:loginTest.LoginTest@609db43b]" started-at="2021-04-18T12:46:16 ICT" name="loginSuccess" finished-at="2021-04-18T12:46:20 ICT" duration-ms="3595" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginSuccess -->
+        <test-method is-config="true" signature="afterClass()[pri:0, instance:loginTest.LoginTest@609db43b]" started-at="2021-04-18T12:46:20 ICT" name="afterClass" finished-at="2021-04-18T12:46:20 ICT" duration-ms="94" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterClass -->
+      </class> <!-- loginTest.LoginTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
